@@ -11,6 +11,8 @@ gem 'redis'
 
 #gem 'solidus'
 #gem 'solidus_auth_devise'
+gem 'nokogiri', '1.10.8'
+
 
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
