@@ -14,11 +14,12 @@ gem 'solidus_auth_devise'
 gem 'nokogiri', '1.10.8'
 gem 'boostrap-sass'
 
-
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
-gem 'sassc-rails'
 gem 'simple_form'
+
+
+gem 'sassc-rails'
 gem 'uglifier'
 gem 'webpacker'
 
@@ -34,3 +35,5 @@ group :development, :test do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'dotenv-rails'
 end
+
+
