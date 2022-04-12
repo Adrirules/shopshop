@@ -11,7 +11,7 @@ gem 'redis'
 
 gem 'solidus'
 gem 'solidus_auth_devise'
-gem 'nokogiri', '1.10.8'
+gem 'nokogiri', '1.13.4'
 gem 'boostrap-sass'
 
 gem 'autoprefixer-rails'
